@@ -7,4 +7,4 @@ function hello(name) {
 }
 
 let hello1 = hello('혜린');
-hello1(); // [출력] : Hello, 백
+hello1(); // output = Hello, 혜린
