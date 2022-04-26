@@ -5,3 +5,9 @@
 - [비동기처리에 대한 이해 - callback / promise / async/await](study_JavaScript/asynchronous.md)
 - [CSR/SSR_SPA/MPA_PWA](study_JavaScript/CSR_SSR_SPA_MPA_PWA.md)
 - [얕은복사\_깊은복사](study_JavaScript/about_copy.md)
+- [캐시/캐싱](study_JavaScript/cache_caching.md)
+
+## Algorithm & Data Structure
+
+- [Big-O](algorithm/Big_O.md)
+- [bubble_sorting](algorithm/bubble_sorting.md)
